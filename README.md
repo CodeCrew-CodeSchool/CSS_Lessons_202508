@@ -1,5 +1,7 @@
 # Module 1 Week 2 In Class Lesson
 
+[https://codecrew-codeschool.github.io/CSS_Lessons_202508/](https://codecrew-codeschool.github.io/CSS_Lessons_202508/)
+
 ## Day 1
 
 Lecture Video: 08/11/2025
@@ -14,3 +16,5 @@ Lecture Video: 08/11/2025
     - font weight
     - centering content
     - adjusting margins, padding
+
+
