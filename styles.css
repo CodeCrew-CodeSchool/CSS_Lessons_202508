@@ -1,0 +1,29 @@
+h1, p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p::first-line {
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+}
+
+section {
+    display: block;
+    margin:auto;
+    width: 80%;
+}
+
+body {
+    background-color: beige;
+}
+
+main {
+    display: block;
+    text-align: center;
+    align-items: center;
+}
+
+header {
+    display: grid;
+}
