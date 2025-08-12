@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+#image-tonga {
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+#image-star {
+    display: block;
+    height:300px;
+}
