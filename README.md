@@ -17,4 +17,12 @@ Lecture Video: 08/11/2025
     - centering content
     - adjusting margins, padding
 
+## Day 2
+
+Lecture Video 08/12/2025
+
+1. Create a simple html webpage styled with inline CSS
+2. Recreate the webpage using the `<style></style>` html element
+3. Recreate the page one more time using an external style sheet
+
 
