@@ -29,6 +29,7 @@ p {
     border-radius: 10%;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
     margin:2%;
+    position: relative;
 }
 
 .trading-card p, h4, img {
@@ -38,6 +39,8 @@ p {
 .trading-card p{
     margin-bottom: 0;
     margin-left: 15%;
+    position: relative;
+    bottom: 3%;
 }
 
 
