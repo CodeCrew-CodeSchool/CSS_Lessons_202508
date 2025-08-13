@@ -19,10 +19,16 @@ Lecture Video: 08/11/2025
 
 ## Day 2
 
-Lecture Video 08/12/2025
-
 1. Create a simple html webpage styled with inline CSS
 2. Recreate the webpage using the `<style></style>` html element
 3. Recreate the page one more time using an external style sheet
 
+## Day 3
 
+1. Review CSS Box Model
+2. Practice using 4 types of CSS selectors in an external CSS file:
+    - Element Selector: `h1` selects all h1 elements
+    - Id Selector: `#my-id` selects all elements with the id attribute `id="my-id"`
+    - Class Selector: `.my-class-group` selects all elements with the class attribute `class="my-class-group"`
+    - Descendant Selector: `div p` selects all `p` elements that are children of of `div`
+3. Create a webpage that displays nba trading cards
