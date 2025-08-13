@@ -30,17 +30,27 @@ p {
     background-color: white;
     border-style: solid;
     border-color: #CB102E;
-    border-radius: 10%;
+    border-radius: 1%;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
     margin: 2%;
     position: relative;
 }
-
-.trading-card p, h4, img {
-    margin-left: 15%;
+.trading-card h4 {
+    margin-bottom: 3%;
+    justify-content: center;
 }
 
-.trading-card p{
+.trading-card p, h4 {
+    display: block;
+    margin-left: 15%;
+}
+.trading-card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.trading-card p {
     margin-bottom: 0;
     margin-left: 15%;
     position: relative;
@@ -48,9 +58,9 @@ p {
 }
 
 .profile {
-    width: 50%;
-    height: auto;
-    border-radius: 20%;
+    width: 80%;
+    height: 35%;
+    border-radius: 10%;
     border-color: #CB102E;
     border-width: 10%;
     border-style: solid;
